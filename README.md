@@ -1,4 +1,4 @@
-# Spa-Resort-Bali
+# Spa Resort Bali
  
 ## Description
 The second big school project we got.
