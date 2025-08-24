@@ -1,7 +1,5 @@
 # Spa Resort Bali
-The second big school project we got.
-
-It's a site where you can make an account and book/manage your lodges.
+A site where you can make an account and book/manage your lodges. The second big school project we got.
 
 **Active Development:** <br>
 **Last Change:** <br>
