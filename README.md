@@ -20,6 +20,6 @@ These are all screenshots of the mockup because the database is down. But it loo
 - Frameworks and libraries: ASP.NET MVC, .NET Framework, Bootstrap, DataTables
 
 ## Progress
-- Start date: 03.09.19
-- Last change: 15.11.19
+- Start date: 2019-09-03
+- Last change: 2019-11-15
 - Activity status: Complete
