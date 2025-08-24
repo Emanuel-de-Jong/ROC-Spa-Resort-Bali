@@ -1,9 +1,17 @@
 # Spa Resort Bali
- 
-## Description
 The second big school project we got.
+
 It's a site where you can make an account and book/manage your lodges.
 
+**Active Development:** <br>
+**Last Change:** <br>
+
+| | |
+| :---: | :---: |
+| ![](/Screenshots/1-Home.png) | ![](/Screenshots/2-Register.png) |
+| ![](/Screenshots/3-Home_Mobile.gif) | ![](/Screenshots/.png) |
+
+These are all screenshots of the mockup because the database is down. But it looks similar enough.
 
 ## Information
 - Type: Web Application
@@ -11,17 +19,7 @@ It's a site where you can make an account and book/manage your lodges.
 - Programming languages: C#, HTML, CSS, JS, SQL
 - Frameworks and libraries: ASP.NET MVC, .NET Framework, Bootstrap, DataTables
 
-
 ## Progress
 - Start date: 03.09.19
 - Last change: 15.11.19
 - Activity status: Complete
-
-
-## Screenshots
-These are all screenshots of the mockup because the database is down. But it looks similar enough.
-![Home](/Screenshots/Home.png)
-
-![Register](/Screenshots/Register.png)
-
-![Home Mobile](/Screenshots/Home%20Mobile.gif)
