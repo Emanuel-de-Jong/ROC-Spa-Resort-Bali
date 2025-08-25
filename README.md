@@ -1,8 +1,8 @@
 # Spa Resort Bali
 A site where you can make an account and book/manage your lodges. The second big school project we got.
 
-**Active Development:** <br>
-**Last Change:** <br>
+**Active Development:** 2019-09-03 - 2019-11-15<br>
+**Last Change:** 2019-11-15<br>
 
 | | |
 | :---: | :---: |
@@ -16,8 +16,3 @@ These are all screenshots of the mockup because the database is down. But it loo
 - Language: English
 - Programming languages: C#, HTML, CSS, JS, SQL
 - Frameworks and libraries: ASP.NET MVC, .NET Framework, Bootstrap, DataTables
-
-## Progress
-- Start date: 2019-09-03
-- Last change: 2019-11-15
-- Activity status: Complete
