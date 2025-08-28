@@ -16,3 +16,4 @@ These are all screenshots of the mockup because the database is down. But it loo
 - Language: English
 - Programming languages: C#, HTML, CSS, JS, SQL
 - Frameworks and libraries: ASP.NET MVC, .NET Framework, Bootstrap, DataTables
+ 
